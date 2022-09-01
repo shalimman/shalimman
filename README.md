@@ -3,8 +3,11 @@
 Hi! I like Smash Bros. and roguelikes!
 
 CS Major at UMICH
+
 Digital artist/Game dev
+
 FTC Robotics Team 6832 Alum
+
 Studying Japanese
 
 <!---
